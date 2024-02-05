@@ -1,1 +1,0 @@
-# BC2402--Designing-and-Developing-Databases
